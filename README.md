@@ -1,0 +1,2 @@
+# akashic
+Akashic Records Core
